@@ -12,8 +12,10 @@
   transition: left 160ms ease-out;
   z-index: 2;
   backdrop-filter: brightness(115%);
+  filter: invert(100%)
 }
 .cursor.hovered {
-  width: 30px;
-  height: 30px;
+  width: 52px;
+  height: 52px;
+
 }
