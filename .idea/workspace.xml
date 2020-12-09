@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a419adf-485f-40b7-9832-5e2d35205646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/img/projet-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/projet-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/projet-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/projet-4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/projet-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/projet-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/projet-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/projet-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/projectsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/projectsData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SocialNetwork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SocialNetwork.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +62,7 @@
       <workItem from="1607294107164" duration="152000" />
       <workItem from="1607294274652" duration="2256000" />
       <workItem from="1607296618174" duration="18108000" />
-      <workItem from="1607509070436" duration="2742000" />
+      <workItem from="1607509070436" duration="3101000" />
     </task>
     <servers />
   </component>

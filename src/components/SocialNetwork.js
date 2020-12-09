@@ -21,13 +21,13 @@ const SocialNetwork = () => {
     return (
         <div className="social-network">
             <ul className="content">
-                <a href="https://www.github.com" _target="_blank" onMouseOver={anim}>
+                <a href="https://github.com/HamzaDams/" _target="_blank" onMouseOver={anim}>
                     <li><i className="fab fa-github"></i></li>
                 </a>
-                <a href="https://www.linkedin.com">
+                <a href="https://www.linkedin.com/in/hamza-damene-361887172/">
                     <li><i className="fab fa-linkedin-in"></i></li>
                 </a>
-                <a href="https://www.github.com">
+                <a href="#">
                     <li><i className="fas fa-envelope"></i></li>
                 </a>
             </ul>
