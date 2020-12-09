@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5a419adf-485f-40b7-9832-5e2d35205646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Mouse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Mouse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Mouse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/_settings.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style/components/_mouse.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/components/_mouse.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/components/_socialNetwork.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/components/_socialNetwork.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/pages/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/pages/_contact.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,7 @@
       <updated>1607294102625</updated>
       <workItem from="1607294107164" duration="152000" />
       <workItem from="1607294274652" duration="2256000" />
-      <workItem from="1607296618174" duration="10974000" />
+      <workItem from="1607296618174" duration="18108000" />
     </task>
     <servers />
   </component>

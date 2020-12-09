@@ -14,6 +14,7 @@ const Mouse = () => {
             }
 
             function handleLeave() {
+                document.querySelector('.cursor').style.transition = ".3s ease-out";
                 document.querySelector('.cursor').classList.remove('hovered');
             }
 

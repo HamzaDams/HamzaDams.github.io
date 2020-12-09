@@ -4,24 +4,50 @@ import SocialNetwork from "../components/SocialNetwork";
 import DynamicText from "../components/DynamicText";
 import ButtonsSlide from "../components/ButtonsSlide";
 import Mouse from "../components/Mouse";
+import {motion} from "framer-motion";
 
 const Home = () => {
+
+    const variants = {
+        initial: {
+            opacity: 0,
+            transition: { duration: 0.5 },
+            x: 200,
+        },
+        visible: {
+            opacity: 1,
+            x: 0,
+        },
+        exit: {
+            opacity: 0,
+            transition: { duration: 0.3 },
+            x: -100,
+        }
+    };
+
+
+
     return (
         <main>
             <Mouse />
-            <div className="home">
+            <motion.div className="home"
+                        initial="initial"
+                        animate="visible"
+                        exit="exit"
+                        variants={variants}
+            >
             <Navigation />
             <SocialNetwork />
                 <div className="home-main">
                     <div className="main-content">
-                        <h1>Damene Hamza</h1>
-                        <h2>
+                        <motion.h1 drag OnDragEnd>Damene Hamza</motion.h1>
+                        <motion.h2 drag OnDragEnd>
                             <DynamicText />
-                        </h2>
+                        </motion.h2>
                     </div>
                 </div>
                 <ButtonsSlide right={"/project-1"} />
-            </div>
+            </motion.div>
         </main>
     );
 };
