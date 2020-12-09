@@ -27,23 +27,7 @@ const Project = (props) => {
         }
     };
 
-    // random img pop
-    let plusMinus = Math.random() > 0.4 ? 1 : -1;
-    let imgX = Math.random() * 350 * plusMinus;
-    let imgY = Math.random() * 120 * plusMinus;
 
-    const imgAnim = {
-        initial: {
-            opacity: 0,
-            x: imgX,
-            y: imgY,
-        },
-        visible: {
-            opacity: 1,
-            x: 0,
-            y: 0,
-        }
-    }
 
     const transition = {
         ease: [.03,.87,.73,.9],
