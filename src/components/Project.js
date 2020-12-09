@@ -29,8 +29,6 @@ const Project = (props) => {
 
     // random img pop
     let plusMinus = Math.random() > 0.4 ? 1 : -1;
-    let imgX = Math.random() * 350 * plusMinus;
-    let imgY = Math.random() * 120 * plusMinus;
 
     const transition = {
         ease: [.03,.87,.73,.9],

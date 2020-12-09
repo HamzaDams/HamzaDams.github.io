@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a419adf-485f-40b7-9832-5e2d35205646" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SocialNetwork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SocialNetwork.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <workItem from="1607294107164" duration="152000" />
       <workItem from="1607294274652" duration="2256000" />
       <workItem from="1607296618174" duration="18108000" />
-      <workItem from="1607509070436" duration="4273000" />
+      <workItem from="1607509070436" duration="4419000" />
     </task>
     <servers />
   </component>
