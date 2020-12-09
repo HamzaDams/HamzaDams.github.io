@@ -27,7 +27,7 @@ const SocialNetwork = () => {
                 <a href="https://www.linkedin.com/in/hamza-damene-361887172/">
                     <li><i className="fab fa-linkedin-in"></i></li>
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/hamza-damene-361887172/">
                     <li><i className="fas fa-envelope"></i></li>
                 </a>
             </ul>
